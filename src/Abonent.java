@@ -101,7 +101,7 @@ public class Abonent {
     public String toString() {
         return  "ИД = " + id +
                 ", Ф.И.О='" + name +" " + surname +" "+  patronymic + '\'' +
-                ", Адреgс='" + address + '\'' +
+                ", Адрес='" + address + '\'' +
                 ", Время вызова=" + totalCallTime +
                 ", Кредитка=" + creditcard_number +
                 ", Задолженность=" + debt +
